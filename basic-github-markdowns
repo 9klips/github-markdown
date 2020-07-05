@@ -1,0 +1,71 @@
+# Github Markdown:-
+
+DOCUMENTATION: https://github.github.com/gfm/
+
+.md / .markdown
+
+4 Space = 1 TAB
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+> Quote
+
+** BOLD **
+* ITALIC *
+** BOLD _BOLDITALIC_ BOLD **
+*** ALL BOLD ***
+~~ STRIKE THROUGH ~~
+
+`In line code`
+
+```
+Code
+Block
+```
+
+[Name](URL)
+[File/Folder Name](Path_of_file_folder/)
+eg.-> [cfg](cfg/)
+
+* Bullet
+-Bullet
+
+1 List1
+2 List2
+3 List3
+.
+.
+
+1 Nested List1
+    - Nexted List2
+        - Nexted List3
+
+- [x] Checkbox Checked
+- [ ] Unchecked
+- [ ] \(Starts with parenthesis)
+
+@<username> --> Mention
+
+#Issue / Pull Request Name (TAB)
+#Issue / Pull Request Number
+eg., #1
+
+TABLES:-
+
+|Head|Head2|
+|---|---|
+|This is big|Small|
+
+|Left Allign|Middle Allign|Right Allign|
+|:---|:---:|---:|
+|content|content|content|
+
+:EMOJICOD:
+eg., :+1: --> Thumbs up
+
+More at: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+![](name-of-gif.gif)
+![](name-of-image.jpg/png)
