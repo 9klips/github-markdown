@@ -69,3 +69,19 @@ More at: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ![](name-of-gif.gif)
 ![](name-of-image.jpg/png)
+
+<br>  ---> Adds new line
+
+<details>
+<summary>OUTSIDE CONTENT OF DROPDOWN</summary>
+<br>
+INSIDE CONTENT OF DROPDOWN
+</details>
+
+<details open>
+<summary>OUTSIE CONTENT OF OPEN DROPDOWN</summary>
+<br>
+INSIDE CONTENT OF OPEN DROPDOWN.
+</details>
+
+### MORE AT: https://gist.github.com/apaskulin/1ad686e42c7165cb9c22f9fe1e389558
